@@ -1,22 +1,17 @@
-# =====================================
-# Simple Python Project
-# Author: Sinclair
-# =====================================
+# enidsind1138
 
-def greet():
-    print("Hello! Welcome to my Python project")
+Welcome to my GitHub repository.
 
-def ask_user():
-    name = input("What is your name? ")
-    age = input("How old are you? ")
-    
-    print("\nNice to meet you,", name)
-    print("You are", age, "years old.")
+## About
+This repository is created for learning and experimenting with code.
 
-def main():
-    greet()
-    ask_user()
+## Features
+- Simple projects
+- Learning experiments
+- Code practice
 
-# Program start
-if __name__ == "__main__":
-    main()
+## Author
+Created by enidterngiang1183
+
+## Notes
+This project is still under development as I continue learning.
